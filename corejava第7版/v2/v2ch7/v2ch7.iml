@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AreaTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ClipTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CompositeTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DragSourceTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DropTargetTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImageIOTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImageProcessingTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImageTransferTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LocalTransferTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MandelbrotTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PaintTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrintServiceTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrintTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RenderQualityTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SerialTransferTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ShapeTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StreamPrintServiceTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StrokeTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SwingDnDTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TextTransferTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TransformTest" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

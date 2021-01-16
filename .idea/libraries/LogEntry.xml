@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="LogEntry">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/corejava第8版/v2ch11/LogEntry/EntryLoggingAgent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/corejava第8版/v2ch11/LogEntry/bcel-5.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

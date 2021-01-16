@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CircularArrayQueueTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedListTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MapTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PriorityQueueTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SetTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ShuffleTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sieve" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TreeSetTest" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

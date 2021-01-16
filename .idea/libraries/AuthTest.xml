@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AuthTest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/corejava第8版/v2ch09/AuthTest/action.jar!/" />
+      <root url="jar://$PROJECT_DIR$/corejava第8版/v2ch09/AuthTest/login.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

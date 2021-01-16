@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JAASTest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/corejava第8版/v2ch09/JAASTest/action.jar!/" />
+      <root url="jar://$PROJECT_DIR$/corejava第8版/v2ch09/JAASTest/login.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

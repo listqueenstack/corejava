@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AppletApplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chart" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NotHelloWorldApplet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PreferencesTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PropertiesTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ResourceTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SystemInfo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WebStartCalculator" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ChangeTrackingTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ClassTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EditorPaneTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FormatTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/InternalFrameTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/InvestmentTable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListRenderingTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongListTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ObjectInspectorTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgressBarTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgressMonitorInputStreamTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgressMonitorTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpinnerTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SplitPaneTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TabbedPaneTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TableCellRenderTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TableRowColumnTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TableTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TreeEditTest" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AESTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AuthTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CertificateSigner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ClassLoaderTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FileReadApplet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JAASTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MessageDigestTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PermissionTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RSATest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SignatureTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/VerifierTest" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

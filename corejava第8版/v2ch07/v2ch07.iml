@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/BookTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CompositeTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesktopAppTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImageIOTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImageListDnDTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImageProcessingTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImageTransferTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrintServiceTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrintTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RasterImageTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RenderQualityTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SerialTransferTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ShapeTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SplashScreenTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StrokeTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SwingDnDTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SystemTrayTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TextTransferTest" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
